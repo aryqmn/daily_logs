@@ -1,7 +1,7 @@
 # daily_logs
 Logging my efforts for creating something, a representation of who I am and what I can be.
 
-# Prelude:
+# prelude:
 So, the plan is simple: engaging cognitive function by building something that represents myself. Currently the plan focuses on a portfolio website, but it could potentially lead to more. I'm just going to log daily activity on github cus convenience is key. 
 
 I might switch to Obsidian for initial drafts and push the daily logs here, *emphasis on might.* 
